@@ -1,3 +1,4 @@
+// 外部
 import type { AppRouteModule } from '/@/router/types';
 
 import { LAYOUT } from '/@/router/constant';

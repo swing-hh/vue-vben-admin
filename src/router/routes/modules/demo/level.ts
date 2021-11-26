@@ -1,3 +1,4 @@
+// 菜单
 import type { AppRouteModule } from '/@/router/types';
 
 import { getParentLayout, LAYOUT } from '/@/router/constant';
